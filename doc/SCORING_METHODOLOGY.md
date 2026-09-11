@@ -1,2 +1,0 @@
-# Scoring Methodology
-Demand score combines case-volume pressure (28%), housing stress (25%), local-event pressure (15%), unmet-service pressure (20%), and service-access gap (12%), with small optional contextual modifiers from uploaded event/service history. The score is bounded 0–100.\n

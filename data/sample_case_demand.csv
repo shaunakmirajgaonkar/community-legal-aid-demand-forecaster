@@ -1,0 +1,13 @@
+region_id,zone,case_domain,case_type,case_volume_index,housing_stress_index,local_event_pressure,unmet_service_index,service_access_gap
+REG-001,North,Housing,Eviction & Tenancy,82,76,54,71,68
+REG-002,North,Family,Family Support,67,48,38,55,41
+REG-003,East,Employment,Wage & Work,61,45,44,48,56
+REG-004,East,Housing,Rent & Housing,78,70,62,64,73
+REG-005,Central,Civil,Consumer Debt,54,58,45,52,47
+REG-006,Central,Family,Domestic Support,73,63,51,69,59
+REG-007,West,Housing,Eviction & Tenancy,88,81,67,79,82
+REG-008,West,Employment,Labour & Work,58,52,39,46,51
+REG-009,South,Identity,Documentation,49,36,32,42,64
+REG-010,South,Housing,Housing Dispute,76,67,59,70,72
+REG-011,River,Civil,Consumer Debt,62,54,48,63,45
+REG-012,River,Family,Family Support,69,61,57,68,53

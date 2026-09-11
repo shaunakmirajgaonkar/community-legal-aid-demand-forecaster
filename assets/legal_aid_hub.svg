@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EFF8FF"/><stop offset="1" stop-color="#FFF8EE"/></linearGradient>
+<linearGradient id="a" x1="0" x2="1"><stop stop-color="#2F80ED"/><stop offset="1" stop-color="#7B61FF"/></linearGradient></defs>
+<rect width="900" height="330" rx="30" fill="url(#bg)"/>
+<circle cx="735" cy="82" r="43" fill="#FFD467" opacity=".85"/>
+<path d="M65 243c120-92 231-78 352-20 106 50 232 46 418-32v115H65Z" fill="#DDEFF4"/>
+<g transform="translate(90 63)">
+<rect x="0" y="68" width="185" height="115" rx="12" fill="#fff" stroke="#C9D9E8" stroke-width="4"/>
+<path d="M-12 78 92 9l105 69" fill="#EAF2FA" stroke="#91AAC1" stroke-width="4"/>
+<rect x="70" y="116" width="50" height="67" rx="6" fill="#D7E5F3"/>
+<circle cx="164" cy="112" r="18" fill="#2F80ED" opacity=".13"/><path d="M157 109l7-7 7 7" stroke="#2F80ED" stroke-width="4" fill="none"/>
+</g>
+<g transform="translate(360 75)">
+<path d="M58 0v72M15 23h86" stroke="url(#a)" stroke-width="10" stroke-linecap="round"/>
+<circle cx="58" cy="72" r="36" fill="#fff" stroke="#A5B8D0" stroke-width="4"/>
+<path d="M34 67h49M37 79h42" stroke="#7B61FF" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g transform="translate(545 70)">
+<rect width="270" height="128" rx="20" fill="#fff" stroke="#D8E4ED" stroke-width="4"/>
+<path d="M28 93c40-31 62-48 93-28 25 16 47 12 74-6 17-12 32-11 47-2" fill="none" stroke="#2AA876" stroke-width="6" stroke-linecap="round"/>
+<circle cx="77" cy="66" r="6" fill="#2AA876"/><circle cx="168" cy="59" r="6" fill="#F2994A"/><circle cx="225" cy="53" r="6" fill="#E85AAD"/>
+<text x="28" y="33" font-family="Arial" font-size="20" font-weight="700" fill="#173B57">Community Legal-Aid Demand</text>
+<text x="28" y="57" font-family="Arial" font-size="15" fill="#70879A">Local service-demand intelligence</text>
+</g>
+<text x="56" y="48" font-family="Arial" font-size="30" font-weight="700" fill="#173B57">Justice Access • Local Planning</text>
+<text x="56" y="79" font-family="Arial" font-size="16" fill="#667E92">Case mix, housing stress, events and service history — processed locally.</text>
+</svg>

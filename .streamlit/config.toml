@@ -1,0 +1,11 @@
+[server]
+headless = true
+address = "127.0.0.1"
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+font = "sans serif"

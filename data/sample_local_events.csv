@@ -1,0 +1,9 @@
+event_id,zone,event_date,event_name,event_type
+EV-001,North,2026-09-03,Community housing clinic,Housing
+EV-002,East,2026-09-05,Tenant support drive,Housing
+EV-003,Central,2026-09-06,Worker outreach camp,Employment
+EV-004,West,2026-09-08,Neighborhood legal clinic,Civil
+EV-005,South,2026-09-09,Documentation camp,Identity
+EV-006,River,2026-09-10,Family support camp,Family
+EV-007,North,2026-09-11,Housing awareness event,Housing
+EV-008,West,2026-09-12,Debt counselling event,Civil

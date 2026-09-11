@@ -1,0 +1,3 @@
+Community Legal-Aid Demand Forecaster — JusticeDemand Local
+
+Use ./clean_install.sh then ./run_project.sh. CSV uploaders are in the sidebar.\n
